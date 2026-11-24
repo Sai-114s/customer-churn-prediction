@@ -1,10 +1,14 @@
 # 📡 Telco Customer Churn Prediction & Retention Intelligence System
 
+[![Live Demo](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction-t8b7wwgklfms4tnrecc7lf.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/scikit_learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-2.0+-EB5424?style=for-the-badge&logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io/)
 [![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blueviolet?style=for-the-badge)](https://shap.readthedocs.io/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://customer-churn-prediction-t8b7wwgklfms4tnrecc7lf.streamlit.app/)
+
+> 🚀 **Live Interactive Web App:** **[https://customer-churn-prediction-t8b7wwgklfms4tnrecc7lf.streamlit.app/](https://customer-churn-prediction-t8b7wwgklfms4tnrecc7lf.streamlit.app/)**  
+> Test real-time churn predictions, inspect interactive confusion matrices/ROC curves, and explore SHAP explainability live in your browser!
 
 An end-to-end, production-grade Machine Learning solution designed to predict customer churn, quantify risk tiers, explain predictive drivers using **SHAP (Shapley Additive Explanations)**, and empower customer success teams through an interactive **Streamlit** intelligence dashboard.
 
@@ -215,6 +219,8 @@ To enable transparent, audit-ready AI decisions, we implemented **SHAP (Shapley 
 
 ## 10. Streamlit Web Application & UI Walkthrough
 
+> 🌐 **Live Web App:** [https://customer-churn-prediction-t8b7wwgklfms4tnrecc7lf.streamlit.app/](https://customer-churn-prediction-t8b7wwgklfms4tnrecc7lf.streamlit.app/)
+
 The web application is located at `app.py` and provides an enterprise-ready dashboard:
 
 ### 1. Executive Overview Page
@@ -255,7 +261,7 @@ The web application is located at `app.py` and provides an enterprise-ready dash
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/customer-churn-prediction.git
+git clone https://github.com/Sai-114s/customer-churn-prediction.git
 cd customer-churn-prediction
 
 # 2. Create and activate a virtual environment
