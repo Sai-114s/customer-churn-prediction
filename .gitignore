@@ -23,6 +23,3 @@ __pycache__/
 # OS Generated
 .DS_Store
 Thumbs.db
-
-# Project outputs / Temporary files
-reports/figures/

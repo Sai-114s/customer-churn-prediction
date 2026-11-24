@@ -97,7 +97,7 @@ model = load_production_model()
 raw_data = load_dataset()
 
 # Sidebar Navigation
-st.sidebar.image("https://img.icons8.com/clouds/200/telecommunication.png", width=110)
+st.sidebar.markdown("## 📡 Telco Intelligence")
 st.sidebar.title("Navigation")
 page = st.sidebar.radio(
     "Go to",
