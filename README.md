@@ -309,6 +309,6 @@ After launching Streamlit, open your browser at `http://localhost:8501`.
 ---
 
 ## 👥 Author & Acknowledgements
-- **Author:** Senior Machine Learning Engineer & Python Developer
+- **Author:** ANGOTHU SAI BALAJI NAYAK
 - **Dataset:** IBM Telco Customer Churn (Kaggle / IBM Community)
 - **License:** MIT License
